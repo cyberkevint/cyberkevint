@@ -8,7 +8,7 @@
   - [Botium Toys Security Audit](https://github.com/cyberkevint/Security-Audit-Portfolio)
 
 - <b>Used tcpdump to analyze and find a cause for a Network Incident</b>
-  - [Botium Toys Security Audit](https://github.com/cyberkevint/network-protocol-analyzer-project)
+  - [Network Incident Analysis & Resolution](https://github.com/cyberkevint/network-protocol-analyzer-project)
 <h2>📺 Popular YouTube Videos (Built a Youtube Channel and made over 30 Videos using AI)</h2>
 
 - [Exploring LA Without Breaking the Bank: A Budget Friendly Guide](https://youtu.be/vFGV_tXTwyY?si=-2eHq9giSdg61ugF)
