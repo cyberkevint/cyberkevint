@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kevin!
  
-  <H2>Passionate about entering the IT field, currently gaining foundational knowledge through a Cyber Security course by Google. 
+  <H2>Passionate about entering the IT and Cybersecurity field, currently gaining foundational knowledge through a Cybersecurity course by Google. 
 
 <h2>👨‍💻Cyber Security Projects:</h2>
 
