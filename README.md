@@ -9,6 +9,10 @@
 
 - <b>Used tcpdump to analyze and find a cause for a Network Incident</b>
   - [Network Incident Analysis & Resolution](https://github.com/cyberkevint/network-protocol-analyzer-project)
+
+- <b>created a plan to improve the company's network security using the NIST Cybersecurity Framework.</b>
+  - [Responding to an ICMP Flood/DDoS Attack](https://github.com/cyberkevint/NISTCSF-DDoS-Incident-Response)
+
 <h2>📺 Popular YouTube Videos (Built a Youtube Channel and made over 30 Videos using AI)</h2>
 
 - [Exploring LA Without Breaking the Bank: A Budget Friendly Guide](https://youtu.be/vFGV_tXTwyY?si=-2eHq9giSdg61ugF)
