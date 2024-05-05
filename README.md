@@ -11,12 +11,7 @@
   - [Network Incident Analysis & Resolution](https://github.com/cyberkevint/network-protocol-analyzer-project)
 
 - <b>Created a plan to improve the company's network security using the NIST Cybersecurity Framework.</b>
-  - [Responding to an ICMP Flood/DDoS Attack](https://github.com/cyberkevint/NISTCSF-DDoS-Incident-Response)
-
-<h2>📺 Popular YouTube Videos (Built a Youtube Channel and made over 30 Videos using AI)</h2>
-
-- [Exploring LA Without Breaking the Bank: A Budget Friendly Guide](https://youtu.be/vFGV_tXTwyY?si=-2eHq9giSdg61ugF)
-- [10 Places You Should NEVER Visit: The World’s Most Dangerous Locations](https://youtu.be/QPpUcWBDoM0?si=2RTSB-fsgqAzO1ag)
+  - [Responding to an ICMP Flood/DDoS Attack](https://github.com/cyberkevint/NISTCSF-DDoS-Incident-Response
 
 
 <h2> 🤳 Connect with me:</h2>
